@@ -1,0 +1,7 @@
+studID	gender	midterm	final	hw
+101	M	78	89	90 
+102	F	60	40	75 
+103	M	84	90	80 
+104	F	76	82	87
+105	F	98	95	90
+106	M	87	92	87
